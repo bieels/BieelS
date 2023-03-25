@@ -17,11 +17,10 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    </div>
-    
+   
+   <div>
       <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: bieelss01@gmail.com">
-      <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/gabrielsantos01/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg">
 </div>
