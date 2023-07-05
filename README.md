@@ -24,9 +24,5 @@
     <a href = "https://www.linkedin.com/in/gabrielsantos01/">
       <img width="40" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg">
 </div>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" />
-</p>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
